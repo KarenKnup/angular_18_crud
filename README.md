@@ -18,4 +18,4 @@
 
 10- Criar o Edit e o Delete em app.ts e app.html 
 
-11- Cria o botão reset que limpa o formulário em app.ts e app.html 
+11- Cria o botão reset que limpa o formulário e validações nos inputs em app.ts e app.html 
