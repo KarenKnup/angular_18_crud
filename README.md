@@ -1,3 +1,4 @@
+<img src="tela.jpeg">
 1- Cria o projeto via comando no terminal no VSCode 
 
 2- Adiciona Bootstrap via comando no terminal e em angular.json e em main.ts 
